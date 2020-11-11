@@ -13,7 +13,7 @@ name                     : &name "Graduate Student Association "
 description              : &description "We are pleased to announce the 2020 Atlanta Symposium on Political Science (ASOPS), hosted by the Political Science Department at Georgia State University on February 27, 2021.  ASOPS is an opportunity for graduate and undergraduate students to present on-going research – at various stages – in a low-pressure environment.  Participants will have the opportunity to hear research from their peers, receive feedback from Georgia State faculty, and network with other students and faculty in their areas of interest. "
 url                      : https://github.com/joshallen28/asopswebpage.github.io.git # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/joshallen28/asopswebpage.github.io.git"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Josh Allen (Chair) and Lexie Piccirillo"
+  avatar           : "GSU_Logo.png"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "Online"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
