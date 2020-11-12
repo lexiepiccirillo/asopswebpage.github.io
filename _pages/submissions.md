@@ -4,4 +4,4 @@ title: "Submissions"
 permalink: /Submission/
 ---
 
-To submit something to the conference please click here [here](http://gsu.qualtrics.com/jfe/form/SV_6QiHYVsqdLErr25)
+Your submission should be no more than 150 words. To submit your paper to the conference please click [here](http://gsu.qualtrics.com/jfe/form/SV_6QiHYVsqdLErr25). 
