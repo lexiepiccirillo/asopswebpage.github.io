@@ -4,9 +4,7 @@ main:
     url: /Submission/
 
   - title: "Program"
-    url: /talks/
+    url: /Program/
 
   - title: "Speaker"
     url: /Speaker/
-
-  
