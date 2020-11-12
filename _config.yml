@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josh Allen (Chair) and Lexie Piccirillo"
-  avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  name             : "Josh Allen (Chair) and Lexie Piccirillo (co-Chair)"
+  avatar           : "logo.png"
+  bio              : "Please reach out if you have any questions "
   location         : "Online"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
